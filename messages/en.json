@@ -1,0 +1,14 @@
+{
+  "About": {
+    "title": "About me",
+    "name": "My name is Abubakr",
+    "job": "I am a frontend developer",
+    "city": "I live in Dushanbe",
+    "hobby": "I like coding and football",
+    "home": "Home"
+  },
+  "Nav": {
+  "todo": "Todo list",
+  "about": "About me"
+}
+}
